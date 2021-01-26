@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.luoyangwei.requestgui.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.luoyangwei.requestgui.MyBundle
 
 class MyApplicationService {
 
